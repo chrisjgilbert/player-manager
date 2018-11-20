@@ -1,3 +1,7 @@
+# player manager
+
+A simple demo program testing the relationship between a postreSQL databse and Sinatra Web APP using PG.
+
 ## Set up the database
 
 1. Connect to psql
